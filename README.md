@@ -1,15 +1,22 @@
 # Dubai-Rental-Market-Analysis
 ## 1. Project Overview
+
 The Real Estate Rent Analysis Dashboard provides a comprehensive visualization of the rent data for properties in various cities in the UAE. The dashboard offers insights such as average rent, total rent, rent distribution by property type and furnishing status, and city-wise rent distribution. The dashboard allows filtering by multiple categories like city, rent category, beds, baths, and furnishing status.
 
 ## 2. Dataset
+
 The dataset used in this dashboard contains information on rent prices, property types, locations, furnishing statuses, and more. Key columns include:
 
 City: The location where the property is situated.
+
 Rent_category: Whether the rent price is categorized as high, medium, or low.
+
 Beds and Baths: Number of bedrooms and bathrooms.
+
 Furnishing: Whether the property is furnished or unfurnished.
+
 Type: Type of property such as Apartment, Villa, Penthouse, etc.
+
 Rent: The rent amount for the respective property.
 
 ## 3. Dashboard Components
