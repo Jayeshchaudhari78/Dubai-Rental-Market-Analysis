@@ -21,7 +21,7 @@ Rent: The rent amount for the respective property.
 
 ## 3. Dashboard Components
 
-## A) Top KPIs->
+## A) Top KPIs
 
 Average Rent: Displays the average rent amount of all properties.
 
